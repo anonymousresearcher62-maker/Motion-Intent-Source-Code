@@ -5,11 +5,18 @@ This application is a proof-of-concept for interacting with LLMs using wearable 
 There are various bugs and corner cases I would like to fix as and if this app is iterated upon. First, here is the app guide.
 
 
-App Guide
+Repo Guide
 ---
 
-* APMotionCollection: The primary test app for AirPod motion and head pose detection. 
-* Wayfinding - MI: The app that lets you build the world-to-graph abstraction model. 
+* APMotionCollection: The initial test app for AirPod motion and head pose detection (left and right only; up and down is in the Playgrounds app). 
+* Wayfinding - MI: The app that lets you build the world-to-graph abstraction model.
+* App Screenshots: Demonstration screenshots of the proof-of-concept app in-deployment from the enrollment process to the guidance.
+* Graph Data Reports: The reports created from examining the LLM responses for each question, for each room, in addition to the stats. Look under the folder for more info.
+* Sample: A sample output from one of the LLMs for some of the questions in our experiments.
+* TinyVit.mlpackage/TinyVit.mlmodelc: The ML model used (TinyViT) for cosine similarity-based room ID.
+* automation.py: Our Python-based simulator to scale our experiments.
+* timm_coreml.py: The code to convert TinyViT from timm into an embedding model for CoreML.
+
 ---
 
 
