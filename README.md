@@ -1,10 +1,8 @@
 # Motion Intent & LLM Orientation Body-Relative Guidance Understanding
 Research Work Application for Body-Relative Guidance LLM Paper.
 
-Note for reviewers of our code: Any comments within the code pointing to names, repositories, or URLs are simply acknolwedgements for library usages and are <b><u>*NOT*</u></b> affiliated to the authors or this research. Everything is anoymous otherwise.
-
-This application is a proof-of-concept for interacting with LLMs using wearable devices and abstracting the world into graph-based representations for easy interactions with LLMs.
-There are various bugs and corner cases I would like to fix as, and if, this app is iterated upon. First, here is the app guide.
+Note for reviewers of our repository: Any comments within the code pointing to names, repositories, or URLs are simply acknolwedgements for library usages and are <b><u>*NOT*</u></b> affiliated to the authors or this research. Everything is anoymous otherwise.
+Here is the repo guide.
 
 
 Repo Guide
@@ -22,6 +20,8 @@ Repo Guide
 ---
 
 
+This application is a proof-of-concept for interacting with LLMs using wearable devices and abstracting the world into graph-based representations for easy interactions with LLMs.
+There are various bugs and corner cases I would like to fix as, and if, this app is iterated upon. First, some additional thoughts for directions.
 
 Some thoughts on improvements I'd like to make in the future:
 
