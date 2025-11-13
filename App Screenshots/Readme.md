@@ -40,7 +40,7 @@ A small collection of visuals from my project — each image tells part of the s
 <p align="center">
   <img src="/App Screenshots/linking.PNG" width="600">
 </p>
-<p>Notice that the compass-based heuristic have some differences between rooms in certain instances. This is because, based on the magnetic heading, the angle can be only a few degrees short of the next; In this case, "Northwest" and "West" were extremley close together in heading angles.</p>
+<p>Notice that the compass-based heuristic have some differences between rooms in certain instances. This is because, based on the magnetic heading, the angle can be only a few degrees short of the next; In this case, "Southwest" and "West" were extremley close together in heading angles.</p>
 
 ---
 
