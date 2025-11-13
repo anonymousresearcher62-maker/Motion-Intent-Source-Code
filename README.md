@@ -13,7 +13,7 @@ Repo Guide
 * APMotionCollection: The initial test app for AirPod motion and head pose detection (left and right only; up and down is in the Playgrounds app). 
 * Wayfinding - MI: The app that lets you build the world-to-graph abstraction model.
 * App Screenshots: Demonstration screenshots of the proof-of-concept app in-deployment from the enrollment process to the guidance.
-* Graph Data Reports: The reports created from examining the LLM responses for each question, for each room, in addition to the stats. Look under the folder for more info.
+* <b>*Graph Data Reports: The reports created from examining the LLM responses for each question, for each room, in addition to the stats. Look under the folder for more info.*</b>
 * Sample: A sample output from one of the LLMs for some of the questions in our experiments.
 * TinyVit.mlpackage/TinyVit.mlmodelc: The ML model used (TinyViT) for cosine similarity-based room ID.
 * automation.py: Our Python-based simulator using a real world-to-graph from the application to scale our experiments.
