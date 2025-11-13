@@ -14,7 +14,7 @@ Repo Guide
 * Graph Data Reports: The reports created from examining the LLM responses for each question, for each room, in addition to the stats. Look under the folder for more info.
 * Sample: A sample output from one of the LLMs for some of the questions in our experiments.
 * TinyVit.mlpackage/TinyVit.mlmodelc: The ML model used (TinyViT) for cosine similarity-based room ID.
-* automation.py: Our Python-based simulator to scale our experiments.
+* automation.py: Our Python-based simulator using a real world-to-graph from the application to scale our experiments.
 * timm_coreml.py: The code to convert TinyViT from timm into an embedding model for CoreML.
 
 ---
