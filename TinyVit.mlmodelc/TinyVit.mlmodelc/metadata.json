@@ -1,0 +1,75 @@
+[
+  {
+    "metadataOutputVersion" : "3.0",
+    "storagePrecision" : "Float16",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float32",
+        "formattedType" : "MultiArray (Float32 320)",
+        "shortDescription" : "",
+        "shape" : "[320]",
+        "name" : "output",
+        "type" : "MultiArray"
+      }
+    ],
+    "modelParameters" : [
+
+    ],
+    "specificationVersion" : 7,
+    "mlProgramOperationTypeHistogram" : {
+      "Ios16.cast" : 2,
+      "Ios16.mul" : 11,
+      "Ios16.layerNorm" : 21,
+      "Transpose" : 70,
+      "Ios16.linear" : 40,
+      "Ios16.add" : 33,
+      "Ios16.conv" : 27,
+      "Ios16.matmul" : 20,
+      "Ios16.softmax" : 10,
+      "Ios16.gelu" : 23,
+      "Ios16.reduceMean" : 1,
+      "Squeeze" : 1,
+      "Split" : 10,
+      "Ios16.reshape" : 65
+    },
+    "computePrecision" : "Mixed (Float16, Float32, Int32)",
+    "isUpdatable" : "0",
+    "stateSchema" : [
+
+    ],
+    "availability" : {
+      "macOS" : "13.0",
+      "tvOS" : "16.0",
+      "visionOS" : "1.0",
+      "watchOS" : "9.0",
+      "iOS" : "16.0",
+      "macCatalyst" : "16.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_mlProgram"
+    },
+    "userDefinedMetadata" : {
+      "com.github.apple.coremltools.source_dialect" : "TorchScript",
+      "com.github.apple.coremltools.source" : "torch==2.2.2",
+      "com.github.apple.coremltools.version" : "8.3.0"
+    },
+    "inputSchema" : [
+      {
+        "height" : "224",
+        "colorspace" : "RGB",
+        "isOptional" : "0",
+        "width" : "224",
+        "isColor" : "1",
+        "formattedType" : "Image (Color 224 × 224)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "",
+        "name" : "input_1"
+      }
+    ],
+    "generatedClassName" : "TinyVit",
+    "method" : "predict"
+  }
+]

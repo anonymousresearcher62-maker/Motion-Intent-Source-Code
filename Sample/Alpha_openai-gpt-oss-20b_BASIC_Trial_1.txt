@@ -1,0 +1,37 @@
+Queries: BASIC
+Room: Alpha
+Direction: NE
+Model: openai/gpt-oss-20b
+I am currently in Room Alpha facing wall 0, which is Northeast. I am looking to my Left. Which wall in this room is to my Left? Provide the scene description.
+
+The wall that lies on your left side (when you’re standing in Room Alpha looking at **Wall 0**, which faces Northeast) is **Wall 3**.
+
+**Scene description for Wall 3 (facing Northwest):**
+
+> The scene features a light blue wall with a dark brown beam running horizontally across it. A framed print depicting a stylized, elongated bridge is prominently displayed on the wall. To the right of the frame sits a shelf holding various objects, including a small animal figurine and several bottles. A partially visible bookshelf is located on the right side of the scene, adding depth to the composition.
+
+======================================================
+I am currently in Room Alpha facing wall 0, which is Northeast. I am looking to my Right. Which wall in this room is to my Right? Provide the scene description.
+
+Since you’re standing in **Room Alpha** looking toward the wall that faces **Northeast (Wall 0)** and you are oriented so that your right side points along the direction of the wall’s right‑hand neighbor, the wall directly to your right is **Wall 1**.
+
+**Scene description for Wall 1**
+
+> *“The scene depicts a window with blue curtains hanging on the left side. A bright, sunny day is visible through the glass panes of the window. Beyond the window, a fence and trees are present in the outdoor scene. The sunlight creates distinct shadows on the glass, adding depth to the overall composition of the scene.”*
+
+======================================================
+I am currently in Room Alpha facing wall 0, which is Northeast. What is directly in front of me? Provide the scene description.
+
+You’re looking straight at **Wall 0** in Room Alpha (facing Northeast).  
+The scene on that wall is:
+
+> “This scene depicts an electric keyboard with two stacks of music on it below a diploma and a poster.”
+
+======================================================
+I am currently in Room Alpha facing wall 0, which is Northeast. What is behind me? Provide the scene description.
+
+Behind you—opposite the Northeast-facing **Wall 0**—is **Wall 2**, which faces Southwest. The scene described for that wall is:
+
+> “The scene displays a light blue wall with two white magnetic boards mounted vertically. Alpha board contains handwritten notes and diagrams in blue marker, likely related to a study session or project. Below the board is a large map of the United States, featuring an elevation‑based color scheme. A small magnetic clipboard is positioned at the bottom of the scene, holding a sheet of paper with more handwritten notes.”
+
+-=-=-=-=-=-=-=-=-=-=- [End Responses] -=-=-=-=-=-=-=-=-=-=-

@@ -1,0 +1,28 @@
+Queries: ADVANCED (sample size)
+Room: Alpha
+Direction: NE
+Model: openai/gpt-oss-20b
+
+[Q #1]
+I am currently in Room Alpha facing wall 0, which is Northeast. What room is behind me?
+
+You’re looking out toward the Northeast side of Alpha, so your back faces the Southwest.  
+In the layout, Alpha’s Southwest side isn’t connected to any other listed room – it simply borders the interior of Alpha itself. So there is no separate room “behind you”; you’re still in Room Alpha.
+----------------------
+[Q #2]
+I am currently in Room Alpha facing wall 0, which is Northeast. What room is to my left?
+
+You’re looking at Wall 0 of Room Alpha, which faces **Northeast**.  
+The wall on your left side is **Wall 3**, and that wall opens onto the room whose connection matches Alpha’s **Northwest** corner – namely **Room Charlie**.
+----------------------
+[Q #3]
+I am currently in Room Alpha facing wall 0, which is Northeast. What room is to my right?
+
+You’re standing in **Room Alpha** looking toward its wall 0 (facing Northeast).  
+When you turn your head to the right, you’re facing Southeast. The room that connects to Alpha on its Southeast side is **Room Charlie**.
+----------------------
+[Q #4]
+I am currently in Room Alpha facing wall 0, which is Northeast. What room is in front of me?
+
+You’re looking toward the Northeast side of Alpha, so the room that lies directly in front of you is **Room Beta**.
+----------------------
