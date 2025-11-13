@@ -1,5 +1,5 @@
 # Application Screenshots
-A small collection of visuals from my project — each image tells part of the story.
+Screenshots from the functionalities of the framework in use for the proof-of-concept application.
 
 ---
 
