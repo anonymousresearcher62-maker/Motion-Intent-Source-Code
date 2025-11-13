@@ -1,0 +1,45 @@
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4
+Alpha,1,SE,1,1,1,1
+Alpha,2,NE,1,1,1,1
+Alpha,3,SE,0,1,1,1
+Alpha,4,SW,0,1,1,1
+Alpha,5,NW,1,1,1,1
+Alpha,6,NE,1,1,1,1
+Alpha,7,NE,1,1,1,1
+Alpha,8,SE,0,1,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4
+Beta,1,SW,1,1,1,1
+Beta,2,NW,1,1,1,1
+Beta,3,NE,1,1,1,1
+Beta,4,SE,1,1,1,1
+Beta,5,SW,0,1,1,1
+Beta,6,NW,1,1,1,1
+Beta,7,SW,1,1,1,1
+Beta,8,NW,0,1,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4
+Charlie,1,NE,1,1,1,0
+Charlie,2,SE,1,1,1,1
+Charlie,3,SW,1,1,1,1
+Charlie,4,NW,0,1,1,1
+Charlie,5,NE,1,1,1,1
+Charlie,6,SE,1,1,1,1
+Charlie,7,NE,1,1,1,1
+Charlie,8,SE,1,1,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4
+Delta,1,NE,1,1,1,1
+Delta,2,SE,1,1,1,1
+Delta,3,SW,0,1,1,1
+Delta,4,NW,1,1,1,1
+Delta,5,NE,1,1,1,1
+Delta,6,SE,1,1,1,1
+Delta,7,NE,1,1,1,1
+Delta,8,SE,1,1,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4
+Echo,1,NE,1,1,1,1
+Echo,2,SE,1,1,1,1
+Echo,3,SW,1,1,1,1
+Echo,4,NW,1,1,1,1
+Echo,5,NE,1,1,1,1
+Echo,6,SE,1,1,1,1
+Echo,7,NE,1,1,1,1
+Echo,8,SE,1,1,1,1

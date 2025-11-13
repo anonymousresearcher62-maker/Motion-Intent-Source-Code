@@ -1,0 +1,3 @@
+Type,Query 1,Query 2,Query 3,Query 4,Query 5,Query 6,Query 7,Query 8,Query 9,Query 10
+Basic (3),What’s to my left?,What’s to my right?,What’s in front of me? (Nod down),What’s behind me? (Nod up),Where am 0 now? (State changes),,,,,
+Advanced (10),What room is behind me?,What room is to my left? ,What room is to my right?,What room is in front of me?,"If I were in the room to my left, what wall in that room would be to my right?","If I were in the room to my left, what wall in that room would be to my left?",How many rooms away is room X?,Where is room X relative to me? ,What wall would I be facing if I turned left three times?,What room would I be facing if I turned right four times? 

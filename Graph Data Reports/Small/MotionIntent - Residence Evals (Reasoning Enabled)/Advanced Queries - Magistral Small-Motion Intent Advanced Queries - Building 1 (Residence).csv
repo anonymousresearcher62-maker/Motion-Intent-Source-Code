@@ -1,0 +1,45 @@
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4,Query 5,Query 6,Query 7,Query 8,Query 9,Query 10
+Alpha,1,SE,1,1,0,0,1,0,1,1,1,1
+Alpha,2,SW,1,0,1,0,0,0,1,1,0,1
+Alpha,3,NE,0,1,1,1,0,0,1,1,1,1
+Alpha,4,NW,0,0,0,1,0,0,1,0,1,1
+Alpha,5,NE,1,1,1,1,0,0,1,1,1,1
+Alpha,6,NW,1,0,1,1,0,0,1,1,0,1
+Alpha,7,NE ,0,1,0,1,1,1,1,1,1,0
+Alpha,8,SE,1,1,1,1,0,0,1,0,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4,Query 5,Query 6,Query 7,Query 8,Query 9,Query 10
+Beta,1,NE,1,1,1,1,1,1,1,0,1,1
+Beta,2,NE,1,1,0,1,1,1,1,1,1,0
+Beta,3,NW,0,1,0,1,1,0,1,0,1,1
+Beta,4,SW,1,1,1,1,0,0,1,1,0,1
+Beta,5,SE,1,0,1,1,0,0,1,1,1,1
+Beta,6,NE,1,1,1,1,0,0,1,1,1,1
+Beta,7,NE,1,1,1,1,1,1,1,1,1,1
+Beta,8,SE,1,0,1,0,0,0,1,0,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4,Query 5,Query 6,Query 7,Query 8,Query 9,Query 10
+Charlie,1,NE,1,0,1,1,0,0,1,1,1,1
+Charlie,2,SE,1,1,0,1,0,0,1,1,1,1
+Charlie,3,SW,1,1,0,0,0,0,1,0,1,1
+Charlie,4,NW,1,0,0,1,0,0,1,1,0,1
+Charlie,5,SE,1,1,1,1,0,0,1,1,1,1
+Charlie,6,NW,1,0,0,1,0,0,1,0,1,1
+Charlie,7,NE,1,1,1,1,1,1,1,0,1,1
+Charlie,8,SE,1,0,0,1,0,1,1,0,1,0
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4,Query 5,Query 6,Query 7,Query 8,Query 9,Query 10
+Delta,1,SW,1,0,0,0,0,1,1,0,1,1
+Delta,2,SE,1,1,0,1,0,0,1,1,1,1
+Delta,3,NW,1,0,1,0,0,0,1,0,0,0
+Delta,4,NE,1,0,1,1,0,0,1,1,1,1
+Delta,5,SW,1,1,0,0,0,0,1,1,1,1
+Delta,6,NE,1,1,1,1,0,0,1,1,1,1
+Delta,7,NE,1,1,1,1,0,1,1,0,1,1
+Delta,8,SE,1,1,1,1,1,0,1,1,1,1
+Room Started From,Trial No.,State (Direction to which we face after enrollment),Query 1,Query 2,Query 3,Query 4,Query 5,Query 6,Query 7,Query 8,Query 9,Query 10
+Echo,1,SW,0,1,0,1,1,1,1,1,1,1
+Echo,2,SE,1,0,1,1,0,0,1,0,1,1
+Echo,3,NW,1,1,0,1,0,0,1,0,1,1
+Echo,4,NE,1,0,1,1,0,0,1,1,1,1
+Echo,5,NW,1,0,0,1,0,0,1,0,1,0
+Echo,6,NE,1,0,1,1,0,0,1,1,1,1
+Echo,7,NE,1,1,1,1,0,0,0,1,1,1
+Echo,8,SE,0,1,1,1,0,0,1,0,1,0
